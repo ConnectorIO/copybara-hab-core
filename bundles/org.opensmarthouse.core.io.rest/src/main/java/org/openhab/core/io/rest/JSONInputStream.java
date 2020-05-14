@@ -10,19 +10,16 @@
  *
  * SPDX-License-Identifier: EPL-2.0
  */
-package org.openhab.core.io.rest.sse.beans;
+package org.openhab.core.io.rest;
+
+import org.eclipse.jdt.annotation.NonNullByDefault;
 
 /**
- * Event bean for broadcasted events.
+ * Marker interface for an input stream that provides a JSON string.
  *
- * @author Ivan Iliev - Initial contribution
- * @author Dennis Nobel - Added event type and renamed object to payload
+ * @author Markus Rathgeb - Initial contribution
  */
-public class EventBean {
+@NonNullByDefault
+public interface JSONInputStream {
 
-    public String topic;
-
-    public String payload;
-
-    public String type;
 }
