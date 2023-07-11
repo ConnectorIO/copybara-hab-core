@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery</artifactId>
 
-  <name>openHAB Core :: Bundles :: Configuration Discovery</name>
+  <name>OpenSmartHouse Core | Bundles | Configuration Discovery</name>
 
   <dependencies>
     <dependency>

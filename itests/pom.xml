@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.itests</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: Integration Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests</name>
 
   <modules>
     <module>org.opensmarthouse.core.tests</module>

@@ -11,6 +11,6 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.mdns.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Configuration mDNS Discovery Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Configuration mDNS Discovery Tests</name>
 
 </project>

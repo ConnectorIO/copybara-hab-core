@@ -10,6 +10,6 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Configuration Discovery Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Configuration Discovery Tests</name>
 
 </project>

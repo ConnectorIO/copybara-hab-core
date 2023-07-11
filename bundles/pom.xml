@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.bundles</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: Bundles</name>
+  <name>OpenSmartHouse Core | Bundles</name>
 
   <modules>
     <module>org.opensmarthouse.core.addon</module>

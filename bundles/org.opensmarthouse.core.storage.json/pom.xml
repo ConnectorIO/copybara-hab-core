@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.storage.json</artifactId>
 
-  <name>openHAB Core :: Bundles :: JSON Storage</name>
+  <name>OpenSmartHouse Core | Bundles | JSON Storage</name>
 
   <dependencies>
     <dependency>

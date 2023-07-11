@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.sitemap.runtime</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Sitemap Runtime</name>
+  <name>OpenSmartHouse Core | Bundles | Model Sitemap Runtime</name>
 
   <dependencies>
     <dependency>

@@ -11,6 +11,6 @@
 
   <artifactId>org.opensmarthouse.core.auth.oauth2client.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: OAuth2Client Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | OAuth2Client Tests</name>
 
 </project>

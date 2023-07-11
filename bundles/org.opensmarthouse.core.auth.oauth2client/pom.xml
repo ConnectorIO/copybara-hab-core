@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.auth.oauth2client</artifactId>
 
-  <name>openHAB Core :: Bundles :: OAuth2Client</name>
+  <name>OpenSmartHouse Core | Bundles | OAuth2Client</name>
 
   <dependencies>
     <dependency>

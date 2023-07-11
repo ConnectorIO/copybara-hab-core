@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.openhab-core-index</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: openHAB Core Index</name>
+  <name>OpenSmartHouse Core | BOM | OpenSmartHouse Core Index</name>
 
   <dependencies>
     <dependency>

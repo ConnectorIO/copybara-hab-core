@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.runtime-index</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: Runtime Index</name>
+  <name>OpenSmartHouse Core | BOM | Runtime Index</name>
 
   <dependencies>
     <dependency>

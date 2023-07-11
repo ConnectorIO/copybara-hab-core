@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.tools.archetypes</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: Tools :: Archetypes</name>
+  <name>OpenSmartHouse Core | Tools | Archetypes</name>
 
   <modules>
     <module>binding</module>

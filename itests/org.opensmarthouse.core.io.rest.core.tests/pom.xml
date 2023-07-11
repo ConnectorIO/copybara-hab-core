@@ -11,6 +11,6 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.core.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: IO REST Core Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | IO REST Core Tests</name>
 
 </project>

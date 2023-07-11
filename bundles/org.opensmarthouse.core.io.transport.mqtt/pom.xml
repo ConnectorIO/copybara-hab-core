@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.mqtt</artifactId>
 
-  <name>openHAB Core :: Bundles :: MQTT Transport</name>
+  <name>OpenSmartHouse Core | Bundles | MQTT Transport</name>
 
   <dependencies>
     <dependency>

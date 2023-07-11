@@ -12,6 +12,6 @@
 
   <artifactId>${rootArtifactId}</artifactId>
 
-  <name>openHAB Add-ons :: Bundles :: ${bindingIdCamelCase} Binding</name>
+  <name>openHAB Add-ons | Bundles | ${bindingIdCamelCase} Binding</name>
 
 </project>

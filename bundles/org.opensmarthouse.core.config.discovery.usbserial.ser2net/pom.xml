@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.usbserial.ser2net</artifactId>
 
-  <name>openHAB Core :: Bundles :: Configuration USB-Serial Discovery using ser2net mDNS scanning</name>
+  <name>OpenSmartHouse Core | Bundles | Configuration USB-Serial Discovery using ser2net mDNS scanning</name>
 
   <dependencies>
     <dependency>

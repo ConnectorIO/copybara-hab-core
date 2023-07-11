@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.addon.marketplace.karaf</artifactId>
 
-  <name>openHAB Core :: Bundles :: Community Marketplace Add-on Service :: Karaf </name>
+  <name>OpenSmartHouse Core | Bundles | Community Marketplace Add-on Service | Karaf </name>
 
   <dependencies>
     <dependency>

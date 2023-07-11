@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.bom</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM</name>
+  <name>OpenSmartHouse Core | BOM</name>
 
   <modules>
     <module>compile</module>

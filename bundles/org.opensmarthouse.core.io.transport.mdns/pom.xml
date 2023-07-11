@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.mdns</artifactId>
 
-  <name>openHAB Core :: Bundles :: mDNS Service</name>
+  <name>OpenSmartHouse Core | Bundles | mDNS Service</name>
 
   <dependencies>
     <dependency>

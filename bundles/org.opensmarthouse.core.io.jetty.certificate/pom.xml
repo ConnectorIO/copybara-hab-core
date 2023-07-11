@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.jetty.certificate</artifactId>
 
-  <name>openHAB Core :: Bundles :: SSL Certificate Generator</name>
+  <name>OpenSmartHouse Core | Bundles | SSL Certificate Generator</name>
 
   <dependencies>
     <dependency>

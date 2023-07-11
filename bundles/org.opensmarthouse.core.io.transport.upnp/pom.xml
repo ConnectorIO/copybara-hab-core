@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.upnp</artifactId>
 
-  <name>openHAB Core :: Bundles :: UPnP Transport</name>
+  <name>OpenSmartHouse Core | Bundles | UPnP Transport</name>
 
   <dependencies>
     <dependency>

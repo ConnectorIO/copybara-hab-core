@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.usbserial.linuxsysfs</artifactId>
 
-  <name>openHAB Core :: Bundles :: Configuration USB-Serial Discovery for Linux using sysfs scanning</name>
+  <name>OpenSmartHouse Core | Bundles | Configuration USB-Serial Discovery for Linux using sysfs scanning</name>
 
   <dependencies>
     <dependency>

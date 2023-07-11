@@ -12,8 +12,8 @@
   <artifactId>org.opensmarthouse.core.features.karaf.openhab-core</artifactId>
   <packaging>feature</packaging>
 
-  <name>openHAB Core :: Features :: Karaf :: Core</name>
-  <description>openHAB Core Features</description>
+  <name>OpenSmartHouse Core | Features | Karaf | Core</name>
+  <description>OpenSmartHouse Core Features</description>
 
   <properties>
     <jetty.version>9.4.50.v20221201</jetty.version>

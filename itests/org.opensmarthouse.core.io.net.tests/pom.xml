@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.io.net.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Network I/O Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Network I/O Tests</name>
 
 </project>

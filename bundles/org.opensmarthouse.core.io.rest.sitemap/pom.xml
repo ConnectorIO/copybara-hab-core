@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.sitemap</artifactId>
 
-  <name>openHAB Core :: Bundles :: Sitemap REST Interface</name>
+  <name>OpenSmartHouse Core | Bundles | Sitemap REST Interface</name>
 
   <dependencies>
     <dependency>

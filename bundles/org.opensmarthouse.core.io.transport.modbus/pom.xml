@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.modbus</artifactId>
 
-  <name>openHAB Core :: Bundles :: Modbus Transport</name>
+  <name>OpenSmartHouse Core | Bundles | Modbus Transport</name>
 
   <dependencies>
     <dependency>

@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.tools</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: Tools</name>
+  <name>OpenSmartHouse Core | Tools</name>
 
   <modules>
     <module>archetype</module>

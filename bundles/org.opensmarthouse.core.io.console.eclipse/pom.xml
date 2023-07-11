@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.console.eclipse</artifactId>
 
-  <name>openHAB Core :: Bundles :: Console for OSGi framework Eclipse Equinox</name>
+  <name>OpenSmartHouse Core | Bundles | Console for OSGi framework Eclipse Equinox</name>
 
   <dependencies>
     <dependency>

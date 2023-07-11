@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.console.rfc147</artifactId>
 
-  <name>openHAB Core :: Bundles :: Console for OSGi Console RFC 147</name>
+  <name>OpenSmartHouse Core | Bundles | Console for OSGi Console RFC 147</name>
 
   <dependencies>
     <dependency>

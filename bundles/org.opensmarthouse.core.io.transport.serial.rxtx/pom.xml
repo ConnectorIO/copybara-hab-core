@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.serial.rxtx</artifactId>
 
-  <name>openHAB Core :: Bundles :: Serial Transport for RXTX</name>
+  <name>OpenSmartHouse Core | Bundles | Serial Transport for RXTX</name>
 
   <dependencies>
     <dependency>

@@ -11,6 +11,6 @@
 
   <artifactId>org.opensmarthouse.core.automation.module.timer.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Automation Module Timer Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Automation Module Timer Tests</name>
 
 </project>

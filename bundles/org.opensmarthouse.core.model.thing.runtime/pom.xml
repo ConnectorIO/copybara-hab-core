@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.thing.runtime</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Thing Runtime</name>
+  <name>OpenSmartHouse Core | Bundles | Model Thing Runtime</name>
 
   <dependencies>
     <dependency>

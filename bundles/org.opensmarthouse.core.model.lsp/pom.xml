@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.lsp</artifactId>
 
-  <name>openHAB Core :: Bundles :: Language Server</name>
+  <name>OpenSmartHouse Core | Bundles | Language Server</name>
 
   <dependencies>
     <dependency>

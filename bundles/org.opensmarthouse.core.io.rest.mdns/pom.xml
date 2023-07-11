@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.mdns</artifactId>
 
-  <name>openHAB Core :: Bundles :: REST mDNS Announcer</name>
+  <name>OpenSmartHouse Core | Bundles | REST mDNS Announcer</name>
 
   <dependencies>
     <dependency>

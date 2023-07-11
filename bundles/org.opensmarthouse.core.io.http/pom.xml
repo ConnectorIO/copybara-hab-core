@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.io.http</artifactId>
 
-  <name>openHAB Core :: Bundles :: HTTP Interface</name>
+  <name>OpenSmartHouse Core | Bundles | HTTP Interface</name>
 
 </project>

@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.transform</artifactId>
 
-  <name>openHAB Core :: Bundles :: Transformation REST Interface</name>
+  <name>OpenSmartHouse Core | Bundles | Transformation REST Interface</name>
 
   <dependencies>
     <dependency>

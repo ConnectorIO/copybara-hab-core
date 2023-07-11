@@ -12,7 +12,7 @@
   <artifactId>org.opensmarthouse.core.features.karaf.openhab-tp</artifactId>
   <packaging>feature</packaging>
 
-  <name>openHAB Core :: Features :: Karaf :: Target Platform</name>
+  <name>OpenSmartHouse Core | Features | Karaf | Target Platform</name>
 
   <properties>
     <jetty.version>9.4.50.v20221201</jetty.version>

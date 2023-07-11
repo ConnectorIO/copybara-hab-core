@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.runtime</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: Runtime</name>
+  <name>OpenSmartHouse Core | BOM | Runtime</name>
 
   <properties>
     <californium.version>2.7.4</californium.version>

@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.model.thing.testsupport</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Model Thing Test Support</name>
+  <name>OpenSmartHouse Core | Integration Tests | Model Thing Test Support</name>
 
 </project>

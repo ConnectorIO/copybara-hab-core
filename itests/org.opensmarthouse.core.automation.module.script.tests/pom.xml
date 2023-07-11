@@ -11,6 +11,6 @@
 
   <artifactId>org.opensmarthouse.core.automation.module.script.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Automation Script Module Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Automation Script Module Tests</name>
 
 </project>

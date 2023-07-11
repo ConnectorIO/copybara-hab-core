@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.net</artifactId>
 
-  <name>openHAB Core :: Bundles :: Network I/O</name>
+  <name>OpenSmartHouse Core | Bundles | Network I/O</name>
 
   <dependencies>
     <dependency>

@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.rule.ide</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Rule IDE</name>
+  <name>OpenSmartHouse Core | Bundles | Model Rule IDE</name>
 
   <dependencies>
     <dependency>

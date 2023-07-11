@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.script.ide</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Script IDE</name>
+  <name>OpenSmartHouse Core | Bundles | Model Script IDE</name>
 
   <dependencies>
     <dependency>

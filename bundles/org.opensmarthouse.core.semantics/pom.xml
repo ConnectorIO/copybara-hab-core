@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.semantics</artifactId>
 
-  <name>openHAB Core :: Bundles :: Semantics</name>
+  <name>OpenSmartHouse Core | Bundles | Semantics</name>
 
   <dependencies>
     <dependency>

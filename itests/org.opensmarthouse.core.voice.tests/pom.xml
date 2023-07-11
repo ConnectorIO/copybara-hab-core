@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.voice.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Voice Test</name>
+  <name>OpenSmartHouse Core | Integration Tests | Voice Test</name>
 
 </project>

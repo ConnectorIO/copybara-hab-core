@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.ephemeris.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Ephemeris Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Ephemeris Tests</name>
 
   <dependencies>
     <dependency>

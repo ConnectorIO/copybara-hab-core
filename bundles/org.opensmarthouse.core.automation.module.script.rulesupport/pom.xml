@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.automation.module.script.rulesupport</artifactId>
 
-  <name>openHAB Core :: Bundles :: Automation Script RuleSupport</name>
+  <name>OpenSmartHouse Core | Bundles | Automation Script RuleSupport</name>
 
   <dependencies>
     <dependency>

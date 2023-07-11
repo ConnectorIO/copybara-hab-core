@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.serial.javacomm</artifactId>
 
-  <name>openHAB Core :: Bundles :: Serial Transport for Java Communications API</name>
+  <name>OpenSmartHouse Core | Bundles | Serial Transport for Java Communications API</name>
 
   <dependencies>
     <dependency>

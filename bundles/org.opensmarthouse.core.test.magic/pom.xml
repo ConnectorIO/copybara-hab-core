@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.test.magic</artifactId>
 
-  <name>openHAB Core :: Bundles :: Magic Bundle</name>
+  <name>OpenSmartHouse Core | Bundles | Magic Bundle</name>
 
   <dependencies>
     <dependency>

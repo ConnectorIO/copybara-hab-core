@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.id</artifactId>
 
-  <name>openHAB Core :: Bundles :: ID</name>
+  <name>OpenSmartHouse Core | Bundles | ID</name>
 
   <dependencies>
     <dependency>

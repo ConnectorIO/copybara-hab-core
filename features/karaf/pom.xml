@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.features.karaf</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: Features :: Karaf</name>
+  <name>OpenSmartHouse Core | Features | Karaf</name>
 
   <modules>
     <module>openhab-tp</module>

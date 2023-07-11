@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.item.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Model Item Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Model Item Tests</name>
 
   <dependencies>
     <dependency>

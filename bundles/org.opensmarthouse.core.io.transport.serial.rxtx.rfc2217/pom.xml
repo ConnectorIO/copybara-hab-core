@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.serial.rxtx.rfc2217</artifactId>
 
-  <name>openHAB Core :: Bundles :: Serial Transport for RFC2217</name>
+  <name>OpenSmartHouse Core | Bundles | Serial Transport for RFC2217</name>
 
   <dependencies>
     <dependency>

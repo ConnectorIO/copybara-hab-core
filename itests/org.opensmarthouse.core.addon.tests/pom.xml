@@ -11,6 +11,6 @@
 
   <artifactId>org.opensmarthouse.core.addon.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Add-on XML Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Add-on XML Tests</name>
 
 </project>

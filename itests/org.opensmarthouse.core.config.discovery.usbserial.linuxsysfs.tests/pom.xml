@@ -10,6 +10,6 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.usbserial.linuxsysfs.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Configuration USB-Serial Discovery for Linux using sysfs scanning Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Configuration USB-Serial Discovery for Linux using sysfs scanning Tests</name>
 
 </project>

@@ -11,7 +11,7 @@
 
   <artifactId>org.opensmarthouse.core.io.transport.serial</artifactId>
 
-  <name>openHAB Core :: Bundles :: Serial Transport</name>
+  <name>OpenSmartHouse Core | Bundles | Serial Transport</name>
 
   <dependencies>
     <dependency>

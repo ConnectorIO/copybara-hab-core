@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.storage.json.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: JSON Storage Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | JSON Storage Tests</name>
 
 </project>

@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.item.runtime</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Items Runtime</name>
+  <name>OpenSmartHouse Core | Bundles | Model Items Runtime</name>
 
   <dependencies>
     <dependency>

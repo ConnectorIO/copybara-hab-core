@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.automation.module.script</artifactId>
 
-  <name>openHAB Core :: Bundles :: Automation Script Modules</name>
+  <name>OpenSmartHouse Core | Bundles | Automation Script Modules</name>
 
   <dependencies>
     <dependency>

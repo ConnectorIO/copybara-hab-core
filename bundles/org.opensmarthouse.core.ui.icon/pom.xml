@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.ui.icon</artifactId>
 
-  <name>openHAB Core :: Bundles :: UI Icon Support</name>
+  <name>OpenSmartHouse Core | Bundles | UI Icon Support</name>
 
   <dependencies>
     <dependency>

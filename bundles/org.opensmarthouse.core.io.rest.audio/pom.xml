@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.audio</artifactId>
 
-  <name>openHAB Core :: Bundles :: Audio REST Interface</name>
+  <name>OpenSmartHouse Core | Bundles | Audio REST Interface</name>
 
   <dependencies>
     <dependency>

@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.compile</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: Compile</name>
+  <name>OpenSmartHouse Core | BOM | Compile</name>
   <description>The dependencies that are used to compile the core bundles</description>
 
   <properties>

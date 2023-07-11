@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.voice</artifactId>
 
-  <name>openHAB Core :: Bundles :: Voice</name>
+  <name>OpenSmartHouse Core | Bundles | Voice</name>
 
   <dependencies>
     <dependency>

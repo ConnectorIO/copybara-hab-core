@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.http.auth</artifactId>
 
-  <name>openHAB Core :: Bundles :: HTTP Interface Authentication</name>
+  <name>OpenSmartHouse Core | Bundles | HTTP Interface Authentication</name>
 
   <dependencies>
     <dependency>

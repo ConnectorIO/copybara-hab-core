@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.test</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: Test</name>
+  <name>OpenSmartHouse Core | BOM | Test</name>
 
   <properties>
     <cxf.version>3.4.5</cxf.version>

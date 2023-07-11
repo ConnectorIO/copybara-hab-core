@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.sse</artifactId>
 
-  <name>openHAB Core :: Bundles :: SSE Interface</name>
+  <name>OpenSmartHouse Core | Bundles | SSE Interface</name>
 
   <dependencies>
     <dependency>

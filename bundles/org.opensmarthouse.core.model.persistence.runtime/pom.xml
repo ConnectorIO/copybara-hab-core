@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.persistence.runtime</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Persistence Runtime</name>
+  <name>OpenSmartHouse Core | Bundles | Model Persistence Runtime</name>
 
   <dependencies>
     <dependency>

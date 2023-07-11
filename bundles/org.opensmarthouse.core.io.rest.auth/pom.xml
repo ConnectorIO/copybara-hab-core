@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.rest.auth</artifactId>
 
-  <name>openHAB Core :: Bundles :: Authentication Support for the REST Interface</name>
+  <name>OpenSmartHouse Core | Bundles | Authentication Support for the REST Interface</name>
 
   <dependencies>
     <dependency>

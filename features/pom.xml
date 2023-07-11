@@ -14,7 +14,7 @@
   <artifactId>org.opensmarthouse.core.reactor.features</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: Features</name>
+  <name>OpenSmartHouse Core | Features</name>
 
   <modules>
     <module>karaf</module>

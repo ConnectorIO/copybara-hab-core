@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.config.dispatch.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Configuration Dispatcher Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Configuration Dispatcher Tests</name>
 
 </project>

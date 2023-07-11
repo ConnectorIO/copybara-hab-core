@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.compile-model</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: Compile Model</name>
+  <name>OpenSmartHouse Core | BOM | Compile Model</name>
 
   <dependencyManagement>
     <dependencies>

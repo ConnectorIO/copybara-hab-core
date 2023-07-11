@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.upnp</artifactId>
 
-  <name>openHAB Core :: Bundles :: Configuration UPnP Discovery</name>
+  <name>OpenSmartHouse Core | Bundles | Configuration UPnP Discovery</name>
 
   <dependencies>
     <dependency>

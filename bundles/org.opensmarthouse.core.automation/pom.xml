@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.automation</artifactId>
 
-  <name>openHAB Core :: Bundles :: Automation</name>
+  <name>OpenSmartHouse Core | Bundles | Automation</name>
 
   <dependencies>
     <dependency>

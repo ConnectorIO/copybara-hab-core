@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.automation.rest</artifactId>
 
-  <name>openHAB Core :: Bundles :: Automation REST API</name>
+  <name>OpenSmartHouse Core | Bundles | Automation REST API</name>
 
   <dependencies>
     <dependency>

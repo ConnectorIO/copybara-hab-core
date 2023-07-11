@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.persistence.ide</artifactId>
 
-  <name>openHAB Core :: Bundles :: Model Persistence IDE</name>
+  <name>OpenSmartHouse Core | Bundles | Model Persistence IDE</name>
 
   <dependencies>
     <dependency>

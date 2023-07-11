@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.model.thing.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Model Thing Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Model Thing Tests</name>
 
   <dependencies>
     <dependency>

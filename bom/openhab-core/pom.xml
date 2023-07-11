@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.openhab-core</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: openHAB Core</name>
+  <name>OpenSmartHouse Core | BOM | OpenSmartHouse Core</name>
 
   <dependencies>
     <dependency>

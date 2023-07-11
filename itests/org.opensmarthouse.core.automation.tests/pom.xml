@@ -12,6 +12,6 @@
 
   <artifactId>org.opensmarthouse.core.automation.tests</artifactId>
 
-  <name>openHAB Core :: Integration Tests :: Automation Tests</name>
+  <name>OpenSmartHouse Core | Integration Tests | Automation Tests</name>
 
 </project>

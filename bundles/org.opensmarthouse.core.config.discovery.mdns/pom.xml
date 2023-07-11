@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.config.discovery.mdns</artifactId>
 
-  <name>openHAB Core :: Bundles :: Configuration mDNS Discovery</name>
+  <name>OpenSmartHouse Core | Bundles | Configuration mDNS Discovery</name>
 
   <dependencies>
     <dependency>

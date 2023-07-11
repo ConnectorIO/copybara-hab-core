@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.io.websocket</artifactId>
 
-  <name>openHAB Core :: Bundles :: WebSocket</name>
+  <name>OpenSmartHouse Core | Bundles | WebSocket</name>
 
   <dependencies>
     <dependency>

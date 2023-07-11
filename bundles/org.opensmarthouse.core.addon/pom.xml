@@ -12,7 +12,7 @@
 
   <artifactId>org.opensmarthouse.core.addon</artifactId>
 
-  <name>openHAB Core :: Bundles :: Add-on XML</name>
+  <name>OpenSmartHouse Core | Bundles | Add-on XML</name>
 
   <dependencies>
     <dependency>

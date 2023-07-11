@@ -13,7 +13,7 @@
   <artifactId>org.opensmarthouse.core.bom.test-index</artifactId>
   <packaging>pom</packaging>
 
-  <name>openHAB Core :: BOM :: Test Index</name>
+  <name>OpenSmartHouse Core | BOM | Test Index</name>
 
   <dependencies>
     <dependency>

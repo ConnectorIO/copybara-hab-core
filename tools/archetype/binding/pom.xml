@@ -12,7 +12,7 @@
   <artifactId>org.opensmarthouse.core.tools.archetypes.binding</artifactId>
   <packaging>maven-archetype</packaging>
 
-  <name>openHAB Core :: Tools :: Archetypes :: Binding</name>
+  <name>OpenSmartHouse Core | Tools | Archetypes | Binding</name>
   <description>This is the Maven-Archetype for building new bindings for openHAB.</description>
 
   <build>
