@@ -5,12 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.openhab.core.bom</groupId>
-    <artifactId>org.openhab.core.reactor.bom</artifactId>
+    <groupId>org.opensmarthouse.core.bom</groupId>
+    <artifactId>org.opensmarthouse.core.reactor.bom</artifactId>
     <version>4.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>org.openhab.core.bom.compile</artifactId>
+  <artifactId>org.opensmarthouse.core.bom.compile</artifactId>
   <packaging>pom</packaging>
 
   <name>openHAB Core :: BOM :: Compile</name>
@@ -208,7 +208,7 @@
 
     <!-- Measurement -->
     <!-- Attention: before upgrading these dependencies check that the dimension X is still not used, otherwise change the
-      dimension label for org.openhab.core.library.unit.Units.BIT -->
+      dimension label for org.opensmarthouse.core.library.unit.Units.BIT -->
     <dependency>
       <groupId>javax.measure</groupId>
       <artifactId>unit-api</artifactId>

@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.openhab.core.features.karaf</groupId>
-    <artifactId>org.openhab.core.reactor.features.karaf</artifactId>
+    <groupId>org.opensmarthouse.core.features.karaf</groupId>
+    <artifactId>org.opensmarthouse.core.reactor.features.karaf</artifactId>
     <version>4.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>org.openhab.core.features.karaf.openhab-tp</artifactId>
+  <artifactId>org.opensmarthouse.core.features.karaf.openhab-tp</artifactId>
   <packaging>feature</packaging>
 
   <name>openHAB Core :: Features :: Karaf :: Target Platform</name>

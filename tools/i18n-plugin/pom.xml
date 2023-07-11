@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.openhab.core.tools</groupId>
-    <artifactId>org.openhab.core.reactor.tools</artifactId>
+    <groupId>org.opensmarthouse.core.tools</groupId>
+    <artifactId>org.opensmarthouse.core.reactor.tools</artifactId>
     <version>4.0.0-SNAPSHOT</version>
   </parent>
 
@@ -50,18 +50,18 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>org.openhab.core.bundles</groupId>
-      <artifactId>org.openhab.core.addon</artifactId>
+      <groupId>org.opensmarthouse.core.bundles</groupId>
+      <artifactId>org.opensmarthouse.core.addon</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>org.openhab.core.bundles</groupId>
-      <artifactId>org.openhab.core.config.core</artifactId>
+      <groupId>org.opensmarthouse.core.bundles</groupId>
+      <artifactId>org.opensmarthouse.core.config.core</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>org.openhab.core.bundles</groupId>
-      <artifactId>org.openhab.core.thing</artifactId>
+      <groupId>org.opensmarthouse.core.bundles</groupId>
+      <artifactId>org.opensmarthouse.core.thing</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
@@ -70,15 +70,15 @@
       <version>2.8.9</version>
     </dependency>
     <dependency>
-      <groupId>org.openhab.core.bom</groupId>
-      <artifactId>org.openhab.core.bom.test</artifactId>
+      <groupId>org.opensmarthouse.core.bom</groupId>
+      <artifactId>org.opensmarthouse.core.bom.test</artifactId>
       <version>${project.version}</version>
       <type>pom</type>
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.openhab.core.bom</groupId>
-      <artifactId>org.openhab.core.bom.test-index</artifactId>
+      <groupId>org.opensmarthouse.core.bom</groupId>
+      <artifactId>org.opensmarthouse.core.bom.test-index</artifactId>
       <version>${project.version}</version>
       <type>pom</type>
       <scope>test</scope>
